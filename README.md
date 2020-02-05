@@ -1,2 +1,2 @@
 # Comp211_Classwork
-##Adventure - traversees through memory one bit at a time
+Adventure - traverses through memory one bit at a time 
